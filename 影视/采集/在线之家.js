@@ -1,3 +1,9 @@
+// @name 在线之家
+// @author 
+// @description 刮削：支持，弹幕：支持，嗅探：支持
+// @version 1.0.0
+// @downloadURL https://gh-proxy.org/https://github.com/Silent1566/OmniBox-Spider/raw/refs/heads/main/影视/采集/在线之家.js
+
 /**
  * ============================================================================
  * 在线之家 (ZXZJ)
